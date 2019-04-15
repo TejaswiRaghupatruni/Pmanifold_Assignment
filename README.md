@@ -17,6 +17,6 @@ For a non filler word,the function calls another function return in Antonym.java
 
 The Antonym.java uses url of "http://www.thesaurus.com/browse/" for the dictionary and prints antonymns and synonyms.
 
-The example files include:sample.txt,sample1.txt,sample2.txt
+The example files include:sample.txt,sample1.txt.
 
 
