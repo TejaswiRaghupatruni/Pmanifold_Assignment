@@ -13,7 +13,7 @@ Longest_Line.java prints the longest line based on maximum number of words conta
 
 It stores the max word line in a string and checks for every non filler word using the function isFiller(s).
 
-For a non filler word,the function calls another function return in Antonym.java to check for antonyms and synonyms.
+For a non filler word,the function calls another function written in Antonym.java to check for antonyms and synonyms.
 
 The Antonym.java uses url of "http://www.thesaurus.com/browse/" for the dictionary and prints antonymns and synonyms.
 
